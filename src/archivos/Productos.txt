@@ -1,0 +1,36 @@
+[producto]
+[codigo]
+222
+[nombre]
+Placa Videoo
+[descripcion]
+Placa base GIGABYTE serie 400 con tecnología AMD StoreMI
+[precio]
+120.0
+[producto]
+[codigo]
+223
+[nombre]
+Kingston A400 SSD 240GB
+[descripcion]
+Disco duro A400 de estado sólido de Kingston
+[precio]
+32.95
+[producto]
+[codigo]
+224
+[nombre]
+Lenovo Ideapad
+[descripcion]
+Ordenador portátil con Intel Core i5, 8GB RAM, 256GB SSD
+[precio]
+665.23
+[producto]
+[codigo]
+224
+[nombre]
+Huawei P20 Lite 64GB
+[descripcion]
+Teléfono smartphone gama media de Huawei
+[precio]
+209.00
